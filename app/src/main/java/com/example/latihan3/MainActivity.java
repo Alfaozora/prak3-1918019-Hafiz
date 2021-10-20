@@ -50,10 +50,10 @@ public class MainActivity extends AppCompatActivity implements
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
                         new Message_fragment()).commit();
                 break;
-            case R.id.chat:
+            case R.id.pengaturan:
 
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
-                        new chat_fragment()).commit();
+                        new pengaturan_fragment()).commit();
                 break;
             case R.id.profile:
 

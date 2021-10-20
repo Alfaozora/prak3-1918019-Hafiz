@@ -3,26 +3,29 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="176dp"
-    android:background="#009688"
+    android:background="#13AEBC"
     android:gravity="bottom"
     android:orientation="vertical"
     android:padding="16dp"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher_round" />
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/foto"
+        app:civ_border_color="#FFFFFF"
+        app:civ_border_width="2dp" />
     <Space
         android:layout_width="match_parent"
         android:layout_height="8dp" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Membuat Navigation"
+        android:text="Hafiz Aria Alfaizi"
 
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lab. Mobile Programming" />
+        android:text="Teknik Informatika'19" />
 </LinearLayout>

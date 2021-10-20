@@ -3,12 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
     <group android:checkableBehavior="single">
+        <item android:id="@+id/pengaturan"
+            android:icon="@drawable/pengaturan"
+            android:title="Pengaturan"/>
         <item android:id="@+id/nav_message"
             android:icon="@drawable/pesan"
-            android:title="Message"/>
-        <item android:id="@+id/chat"
-            android:icon="@drawable/pesan1"
-            android:title="Chat"/>
+            android:title="Pesan"/>
         <item android:id="@+id/profile"
             android:title="Profile"
             android:icon="@drawable/profile"/>

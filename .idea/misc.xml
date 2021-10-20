@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_chat.xml" value="0.22418478260869565" />
-        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_messages.xml" value="0.22418478260869565" />
-        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_profile.xml" value="0.22418478260869565" />
-        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/new_header.xml" value="0.25" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/drawable/pesan1.xml" value="0.15876288659793814" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_chat.xml" value="0.15" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_messages.xml" value="0.12" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_pengaturan.xml" value="0.14965277777777777" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/fragment_profile.xml" value="0.16" />
+        <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/layout/new_header.xml" value="0.22" />
         <entry key="..\:/Users/laptopssd/AndroidStudioProjects/Latihan3/app/src/main/res/menu/draw_menu.xml" value="0.22447916666666667" />
       </map>
     </option>

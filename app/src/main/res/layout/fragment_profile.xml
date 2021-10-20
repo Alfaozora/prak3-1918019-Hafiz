@@ -8,9 +8,29 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
         android:fontFamily="sans-serif-condensed"
         android:text="Profile Fragment"
+        android:textColor="#ACE5FF"
         android:textSize="34sp"
         android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/chara3" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+           android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="600dp"
+            android:text="Maaf Program Masih Dalam Tahap Pengembangan"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:textColor="#ACE5FF"
+            android:textStyle="bold" />
+    </RelativeLayout>
 </RelativeLayout>
